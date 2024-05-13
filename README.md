@@ -1,2 +1,6 @@
 # .Community
-name: Crypto Entrepreneurship  url: CryptoEntrepreneur.{site}  description: "A Community &amp; space for the best our movement Has to Offer! dev@crypto.entrepreneur.unisocial.net"
+name: Blockchain Entrepreneur, Crypto Entrepreneurship
+
+url: CryptoEntrepreneur.{site}, BitcoinEntrepreneur., BlockchainEntrepreneur.
+
+description: "A Community & space for innovation in the World Economy through Blockchain Technology! dev@crypto.entrepreneur.unisocial.net"
